@@ -1,0 +1,8 @@
+/* This 
+Lecture 
+is 
+Fully 
+Theorical
+nothing 
+is for 
+coding. */
